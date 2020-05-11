@@ -8,3 +8,6 @@
 
 - ios9  버전 부터 가능
 - 같은 네트워크만 가능(와이파이)
+
+
+![aaa](https://user-images.githubusercontent.com/28918085/81572809-a7797880-93de-11ea-95c7-181baff3061f.png)
